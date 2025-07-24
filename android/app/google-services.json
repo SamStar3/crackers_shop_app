@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383506371431",
+    "project_id": "crackers-shop-app",
+    "storage_bucket": "crackers-shop-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383506371431:android:09d2f43d0520d1a09bd5c2",
+        "android_client_info": {
+          "package_name": "com.example.crackers_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9X_CZSgJnY-LUzwCvLKdvH8qFb2tOnJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
